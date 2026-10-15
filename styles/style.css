@@ -99,6 +99,30 @@ body {
   color: yellow !important;
 }
 
+.navbar-river {
+  background-color: #e30613;
+}
+
+.main-content {
+  min-height: 80vh;
+}
+
+.img-monumental {
+  width: 100%;
+  height: 380px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.img-jugador {
+  width: 100%;
+  height: 280px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+}
+
 footer {
   margin-top: 40px;
   padding: 15px;

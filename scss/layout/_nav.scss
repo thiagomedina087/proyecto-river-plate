@@ -9,3 +9,20 @@
   &:focus { outline: 2px solid $color-blanco; outline-offset: 2px; }
   &:active { color: $color-hover-active !important; }
 }
+.navbar-river{
+  background-color: #e30613;
+}
+.main-content{
+  min-height: 80vh;
+}
+.img-monumental{
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+}
+.img-jugador{
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  object-position: top;
+}
